@@ -1,0 +1,11 @@
+.err{
+    color: #856404!important;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    position: relative;
+    padding: .75rem 1.25rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    display: block;
+    margin: 0% 0 0 0;
+} 
